@@ -1,0 +1,12 @@
+inteiro velocidade
+
+    escreva("informe a velocidade: ")
+    leia(velocidade)
+    
+    se(velocidade > 110){
+    escreva("você foi multado!!")
+
+    }
+    senao{
+      escreva("você passou, Boa Viagem!!!")
+    }
